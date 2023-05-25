@@ -2,5 +2,5 @@
 mi primer repositorio
 
 
-# Mi primer commit remotp
+# Mi primer commit remoto
 mi primer commit
